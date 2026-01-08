@@ -43,3 +43,9 @@ This establishes a foundation for more advanced healthcare AI models.
 Advanced machine learning models, including Random Forest, were trained to improve disease risk detection.
 These models demonstrated enhanced recall performance, reducing the likelihood of missed diagnoses and supporting preventive healthcare interventions.
 
+### Explainable AI and Transparency
+
+Explainable AI techniques were applied using permutation-based SHAP to interpret disease risk predictions from the Random Forest model.
+This approach improves transparency, trust, and ethical deployment of AI in healthcare systems.
+
+
