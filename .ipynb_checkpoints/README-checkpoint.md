@@ -37,3 +37,9 @@ These steps are critical for building reliable and interpretable healthcare AI s
 A logistic regression model was trained as a baseline to predict heart disease risk.
 Evaluation metrics highlight the model’s ability to identify at-risk patients, emphasizing recall to minimize missed diagnoses.
 This establishes a foundation for more advanced healthcare AI models.
+
+### Advanced Predictive Models
+
+Advanced machine learning models, including Random Forest, were trained to improve disease risk detection.
+These models demonstrated enhanced recall performance, reducing the likelihood of missed diagnoses and supporting preventive healthcare interventions.
+
