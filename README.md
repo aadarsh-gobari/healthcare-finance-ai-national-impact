@@ -49,3 +49,31 @@ Explainable AI techniques were applied using permutation-based SHAP to interpret
 This approach improves transparency, trust, and ethical deployment of AI in healthcare systems.
 
 
+## Project Summary
+This project focuses on developing an explainable machine learning system to predict heart disease risk using patient health indicators. The system leverages structured clinical data and advanced ensemble models to support early disease detection. By prioritizing recall and transparency, the project aims to reduce missed diagnoses and assist preventive healthcare decision-making in the United States.
+
+## Problem Addressed
+Cardiovascular disease remains one of the leading causes of mortality in the United States. Many cases are diagnosed late due to limited early risk assessment tools, leading to preventable complications and increased healthcare costs. There is a national need for data-driven, transparent, and reliable decision-support systems that can assist healthcare professionals in identifying at-risk patients earlier.
+
+## Proposed Solution
+An end-to-end machine learning pipeline was developed, including data preprocessing, feature engineering, model training, evaluation, and explainability. A Random Forest classifier was selected for its ability to model non-linear clinical relationships. Model performance was evaluated with an emphasis on recall to minimize missed disease cases. Explainable AI techniques were applied to ensure transparency and clinical interpretability.
+
+## Key Results
+
+- Baseline logistic regression achieved a disease-class recall of 91%
+- An advanced Random Forest model improved disease-class recall to 97%
+- Explainable AI analysis identified clinically meaningful features such as chest pain type, vascular indicators, and exercise-related metrics as key contributors
+
+These results demonstrate the system’s effectiveness in identifying high-risk patients while maintaining interpretability.
+
+## Explainable AI and Ethical Considerations
+Explainable AI techniques were applied using SHAP to interpret model predictions. Feature-level explanations aligned with established clinical risk factors, improving transparency and trust. This approach supports ethical AI deployment by enabling healthcare professionals to understand, validate, and responsibly use model outputs.
+
+## National Importance and Public Benefit
+Early identification of cardiovascular risk can reduce emergency hospitalizations, lower long-term treatment costs, and improve patient outcomes. Transparent AI-driven risk assessment tools support preventive healthcare initiatives and align with U.S. public health priorities. This work contributes to national efforts to improve healthcare efficiency, quality, and accessibility.
+
+## Petitioner’s Qualifications
+The petitioner holds a Master’s degree in Computer Science and Engineering and has hands-on experience in applied machine learning, data engineering, and explainable AI. The project demonstrates the petitioner’s ability to independently design, implement, evaluate, and interpret complex AI systems aligned with real-world healthcare needs.
+
+## Benefit of Waiving Labor Certification
+The work demonstrated in this project is independent, research-driven, and focused on public benefit rather than employer-specific objectives. Waiving the labor certification requirement would allow the petitioner to continue advancing healthcare-focused AI solutions that serve national interests without delay or restriction.
