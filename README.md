@@ -26,3 +26,8 @@ My work aims to contribute to the U.S. national interest by:
 
 Initial analysis was conducted to understand patient health indicators such as age, cholesterol levels, blood pressure, and heart rate.
 Target distribution analysis highlights the importance of early risk detection to support preventive healthcare decision-making.
+
+### Data Cleaning and Feature Preparation
+
+Data preprocessing included handling missing values, encoding categorical variables, and preparing structured feature sets for predictive modeling.
+These steps are critical for building reliable and interpretable healthcare AI systems.
