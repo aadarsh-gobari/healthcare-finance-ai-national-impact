@@ -31,3 +31,9 @@ Target distribution analysis highlights the importance of early risk detection t
 
 Data preprocessing included handling missing values, encoding categorical variables, and preparing structured feature sets for predictive modeling.
 These steps are critical for building reliable and interpretable healthcare AI systems.
+
+### Baseline Predictive Model
+
+A logistic regression model was trained as a baseline to predict heart disease risk.
+Evaluation metrics highlight the model’s ability to identify at-risk patients, emphasizing recall to minimize missed diagnoses.
+This establishes a foundation for more advanced healthcare AI models.
